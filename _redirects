@@ -1,0 +1,48 @@
+# Redirect default Netlify subdomain to primary domain
+http://joshuayoungdesign.netlify.com/* https://www.joshuayoungdesign.com/:splat 301!
+https://joshuayoungdesign.netlify.com/* https://www.joshuayoungdesign.com/:splat 301!
+http://joshuayoungdesign.com/* https://www.joshuayoungdesign.com/:splat 301!
+https://joshuayoungdesign.com/* https://www.joshuayoungdesign.com/:splat 301!
+
+
+/projects/2018/3/4/hand-coded-php-website-flow /post/hand-coded-php-website
+/projects/2018/3/3/9agp29yudpb9at57dff8imtx2w85ci /post/overwatch-dragon-dance-wall-art
+/projects/2018/3/3/hand-coded-blog /post/hand-coded-blog /post/hand-coded-blog
+/projects/2016/7/6/gu5nnizlzka1vj0pxidgbfj9x9sd1o /post/flow-html-edm
+/projects/2016/6/15/nuk-fashion-clothing-logo /post/nuk-fashion-logo
+/projects/2016/6/13/lpvhuoh7jvp1gc0ncwxp3dlpwf1f9a /post/baked-by-brogen-logo
+/projects/2016/6/2/flow-traffic-app-website /post/flow-traffic-app-website
+/projects/2016/5/25/0nf5i5zk9ohqe7dy2jemte7aem0gsc /post/cineplex-cinema-app
+/projects/2016/5/30/wall-quote-art /post/wall-quote-art
+/projects/2016/5/31/multispan-website-design /post/multispan-website-design
+/projects/2016/6/1/in-shape-mummy-logo /post/in-shape-mummy-logo
+/projects/2016/6/1/vqbtt4xlbnastp4zut0dypq2fau700 /post/rocky-point-recycling
+/projects/2015/12/8/apprenticeworks-folder /post/apprenticeworks-folder
+/projects/2015/12/3/my-typeface-joshua /post/my-typeface
+/projects/2015/12/3/my-typeface /post/universal-remote-app
+/projects/2015/12/3/self-identity /post/self-identity
+/projects/2015/12/3/886ycg1ywshskzta7ykvzevpm4ocd5 /post/domestic-violence-awareness-campaign
+/projects/2015/12/3/fashion-website /post/fashion-website
+/projects/2015/12/3/organic-gold /post/organic-gold
+/projects/2015/12/3/c919hl2x3lt8iju6gwyzlbmrm1an6e /post/the-plantation-house
+/projects/2015/12/3/three-worlds-bus-wrap /post/three-worlds-bus-wrap
+/projects/2015/12/3/cheeky-buds-toy /post/cheeky-buds-toy-and-edm
+/projects/2015/12/8/fifteen-recipe-book-and-edm /post/fifteen-recipe-book-and-edm
+/projects/2015/12/3/ff-meta-type-specimen /post/type-specimen
+/projects/2016/2/9/gift-place /post/gift-place
+/projects/2016/2/9/iphone-cover /post/phone-cover
+/projects/2016/2/9/9ejnh73s4if8ljly9ipdhrkuhcj5h5 /post/eminem-vinyl-cd-cover
+/projects/2016/2/9/shoe-design /post/shoe-design
+
+/projects https://www.joshuayoungdesign.com/
+/portfolio https://www.joshuayoungdesign.com/
+/all https://www.joshuayoungdesign.com/
+/web-design-1 https://www.joshuayoungdesign.com/
+/ui-ux https://www.joshuayoungdesign.com/
+/branding https://www.joshuayoungdesign.com/
+/html-css https://www.joshuayoungdesign.com/
+/typeography https://www.joshuayoungdesign.com/
+/print https://www.joshuayoungdesign.com/
+/type-design https://www.joshuayoungdesign.com/
+/logo-design https://www.joshuayoungdesign.com/
+/video-design https://www.joshuayoungdesign.com/
